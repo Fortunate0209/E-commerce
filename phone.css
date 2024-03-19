@@ -1,0 +1,53 @@
+
+
+@media screen and (max-width: 475px) {
+    .in_put {
+        padding: 10px;
+        width: 380px;
+        margin-left: 10px;
+    }
+    
+    #show {
+        display: none;
+    }
+    
+    .e-comm{
+        height: 260px;
+    }
+    
+    .textarea {
+        padding: 20px;
+        width: 350px;
+        text-align: center;
+        margin-left: 10px;
+        margin-top: 30px;
+        background-color: #f8f9fa;
+        font-size: 45px;
+        font-weight: 400;
+        color: white;
+    }
+    
+    .item {
+        width: 360px;
+        margin-left: 10px;
+        margin-top: 20px;
+    
+    }
+    .tableArea{
+        text-align: -webkit-center;
+        }
+    tr,td,th {
+        border: 2px solid black;
+        padding: 5px;
+        color: black;
+        font-size: 15px;
+        font-weight: 400;
+        background-color: bisque;
+    }
+    
+    table{
+        border-collapse: collapse;
+        margin-top: 40px;
+    }
+}
+
